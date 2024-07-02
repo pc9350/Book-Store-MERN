@@ -29,7 +29,7 @@ This project is a simple Book Store application built using the MERN stack (Mong
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/pc9350/Book-Store-MERN.git
     cd Book-Store-MERN
     ```
 
