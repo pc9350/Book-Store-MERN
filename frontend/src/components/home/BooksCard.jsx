@@ -1,9 +1,3 @@
-import { Link } from "react-router-dom"
-import { PiBookOpenTextLight } from "react-icons/pi";
-import { AiOutlineEdit} from "react-icons/ai";
-import { BiUserCircle } from "react-icons/bi";
-import { MdOutlineDelete } from "react-icons/md";
-import { BsInfoCircle } from "react-icons/bs";
 import BookSingleCard from "./BookSingleCard";
 
 const BooksCard = ({books}) => {
